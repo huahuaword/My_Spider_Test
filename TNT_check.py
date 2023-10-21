@@ -1,4 +1,5 @@
 """
+
 @比克出品 仅供学习交流，请在下载后的24小时内完全删除 请勿将任何内容用于商业或非法目的，否则后果自负。
 qq裙:638680122
 TNT_Check_V0.1   签到
@@ -8,6 +9,7 @@ SCKEY：pushplus的token
 EMAIL：账号
 PASSWORD：密码
 cron： 0 0 7 * * ?
+
 """
 import requests
 import json
