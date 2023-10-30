@@ -19,6 +19,8 @@ def hitokoto():
     except Exception as error:
         print(error)
 
+
+
 # 示例用法
 quote = hitokoto()
 print(quote)
